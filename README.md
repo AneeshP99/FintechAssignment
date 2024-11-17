@@ -1,4 +1,4 @@
-# FintechAssignment  
+# Task Handling with Node JS
 Task Description:  Build a Node.js API cluster with two replica sets and create a route
 to handle a simple task. The task has a rate limit of 1 task per second and 20 task
 per min for each user ID. Users will hit the route to process tasks multiple times.
